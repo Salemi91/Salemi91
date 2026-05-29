@@ -1,6 +1,6 @@
 # Hi, I'm Salemi 👋
 
-Backend Developer and Software Architecture learner from Paraguay.
+Software Architecture learner and Backend Developer from Paraguay.
 
 I work with Java, Spring Boot, microservices and technical documentation for software teams.
 
