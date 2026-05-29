@@ -1,20 +1,24 @@
 # Hi, I'm Salemi 👋
 
-Software Architecture learner and Backend Developer from Paraguay.
+Systems Analyst, Backend Developer and aspiring Software Architect from Paraguay.
 
-I work with Java, Spring Boot, microservices and technical documentation for software teams.
+I enjoy bridging business needs, technical design and software delivery through architecture, documentation and engineering practices.
 
 Currently building:
 
-- Architect Journey: documentation framework for architecture decisions and team alignment.
-- Engineering Bridge: future AI-assisted workflow for generating PRDs, RFCs and technical briefs.
-- Backend labs with Java, Spring Boot, AWS and hexagonal architecture.
+* **Architect Journey**: a software architecture portfolio with ADRs, RFCs, PRDs, C4 models and architecture decision frameworks.
+* **Engineering Bridge**: a future AI-assisted workflow for generating PRDs, RFCs, technical briefs and reusable engineering context.
+* **Backend Labs**: hands-on projects with Java, Spring Boot, AWS and Hexagonal Architecture.
 
 ## Focus Areas
 
-- Software Architecture
-- Backend Development
-- Microservices
-- Technical Documentation
-- AWS
-- Engineering Leadership
+* Software Architecture
+* Backend Development
+* Microservices
+* Technical Documentation
+* AWS
+* Engineering Leadership
+
+## Current Goal
+
+Transitioning from software delivery to software architecture through deliberate practice, documentation and real-world design decisions.
