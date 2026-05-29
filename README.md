@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Salemi 👋
 
-<!--
-**Salemi91/Salemi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer and Software Architecture learner from Paraguay.
 
-Here are some ideas to get you started:
+I work with Java, Spring Boot, microservices and technical documentation for software teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+- Architect Journey: documentation framework for architecture decisions and team alignment.
+- Engineering Bridge: future AI-assisted workflow for generating PRDs, RFCs and technical briefs.
+- Backend labs with Java, Spring Boot, AWS and hexagonal architecture.
+
+## Focus Areas
+
+- Software Architecture
+- Backend Development
+- Microservices
+- Technical Documentation
+- AWS
+- Engineering Leadership
